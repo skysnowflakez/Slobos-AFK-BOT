@@ -8,7 +8,7 @@
   "server": {
     "ip": "bhssmc.aternos.me:15050",
     "port": 15050,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
